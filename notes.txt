@@ -1,0 +1,11 @@
+Django:> python framework for web development
+framework: 
+php> Laravel, CI, Wordpress
+python> Django
+java> spring
+js> express
+
+MVT(model view templete):> DJANGO FOLLOW
+models: database
+view:backend
+templates:frontend
